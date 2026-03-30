@@ -138,7 +138,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
             style={{ display: 'flex', gap: '1.5rem', flexWrap: 'wrap' }}
           >
-            <a href="/src/assets/AyushCV.pdf" target="_blank" rel="noopener noreferrer"
+            <a href="https://drive.google.com/file/d/1iU1zKKcn6nIfOxEi07JeNW-a6imhX0du/view?usp=sharing" target="_blank" rel="noopener noreferrer"
               className="glass-pane"
               style={{
                 display: 'inline-flex', alignItems: 'center', gap: '0.75rem',
