@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Eye, ChevronDown } from 'lucide-react';
-import profilePic from '../assets/WhatsApp Image 2026-03-30 at 11.12.30 PM.jpeg';
+import profilePic from '../assets/WhatsApp Image 2026-03-30 at 11.20.29 PM.jpeg';
 
 const greetings = [
   "Hello",      // English
